@@ -4,7 +4,7 @@ A Software Developer with industry experience building web application used by t
 
 My stack is as follows:
 * **Frontend**: HTML, CSS, JavaScript, React
-* **Backend**: NodeJS, 
+* Backend**: NodeJS, PHP
 * **FullStack: .NET
 * **Cloud Computing**: AWS, Google Cloud Platform
 
@@ -12,9 +12,9 @@ My stack is as follows:
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Augmented Reality
 - 👯 I’m looking to collaborate on AR Development
+-  📫 How to reach me: martyturing@gmail.com
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: martyturing@gmail.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
