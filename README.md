@@ -9,7 +9,7 @@ My stack is as follows:
 * **Cloud Computing**: AWS, Google Cloud Platform
 
 
-**🔭 I’m currently working as a Mobile Web Specialist**
+**🔭 I’m currently working as a Mobile Web Specialist** <br/>
 **🌱 I’m currently learning MERN Stack**
 **👯 I’m looking to collaborate on AR Development**
 **📫 How to reach me: martyturing@gmail.com**
