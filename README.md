@@ -9,10 +9,10 @@ My stack is as follows:
 * **Cloud Computing**: AWS, Google Cloud Platform
 
 
-🔭 I’m currently working on MERN Stack
-🌱 I’m currently learning Mobile Web Specialist
-<!-- -- - 👯 I’m looking to collaborate on AR Development -->
-📫 How to reach me: martyturing@gmail.com
+-- 🔭 I’m currently working as a Mobile Web Specialist
+-- 🌱 I’m currently learning MERN Stack
+-- 👯 I’m looking to collaborate on AR Development -->
+-- 📫 How to reach me: martyturing@gmail.com
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ...
