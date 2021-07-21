@@ -11,12 +11,14 @@ My stack is as follows:
 
 **🔭 I’m currently working as a Mobile Web Specialist** <br/>
 **🌱 I’m currently learning MERN Stack**<br/>
-**👯 I’m looking to collaborate on AR Development**<br/>
+**⚡ Hobby: AR Enthusiast**<br/>
 **📫 How to reach me: martyturing@gmail.com**<br/>
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: 
+**👯⚡ I’m looking to collaborate on AR Development**<br/>
+... -->
 
 
 ### My GitHub stats
