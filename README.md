@@ -10,7 +10,7 @@ My stack is as follows:
 
 
 🔭 I’m currently working on MERN Stack
-🌱 I’m currently learning React
+🌱 I’m currently learning Mobile Web Specialist
 <!-- -- - 👯 I’m looking to collaborate on AR Development -->
 📫 How to reach me: martyturing@gmail.com
 <!-- - 🤔 I’m looking for help with ... -->
