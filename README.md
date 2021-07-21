@@ -3,16 +3,16 @@
 A Software Developer with industry experience building web application used by thousands of people. Specializing in Python, JavaScript, BlockChain technologies and Machine Learning. Professional experience working with Angular, Python and Typescript.  -->
 
 My stack is as follows:
-* **Frontend**: HTML, CSS, JavaScript, React
-* Backend**: NodeJS, PHP
-* **FullStack: .NET
+* **Frontend**: HTML, CSS, JavaScript, ReactJS, Bootstrap, JSON
+* **Backend**: NodeJS, PHP, C#, SQL
+* **FullStack**: .NET
 * **Cloud Computing**: AWS, Google Cloud Platform
 
 
-<!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Augmented Reality
-- 👯 I’m looking to collaborate on AR Development
--  📫 How to reach me: martyturing@gmail.com
+-- - 🔭 I’m currently working on MERN Stack
+-- - 🌱 I’m currently learning React
+<!-- -- - 👯 I’m looking to collaborate on AR Development -->
+-- -  📫 How to reach me: martyturing@gmail.com
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ...
