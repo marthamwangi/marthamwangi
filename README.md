@@ -1,4 +1,4 @@
-### Hi there 👋, I am Martha Mwangi.
+### Hi there 👋, I am Martha Mwangi. <p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=marthamwangi" alt="visitor badge"/></p>
 <!-- 
 A Software Developer with industry experience building web application used by thousands of people. Specializing in Python, JavaScript, BlockChain technologies and Machine Learning. Professional experience working with Angular, Python and Typescript.  -->
 
