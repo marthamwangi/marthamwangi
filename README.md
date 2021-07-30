@@ -3,14 +3,14 @@
 A Software Developer with industry experience building web application used by thousands of people. Specializing in Python, JavaScript, BlockChain technologies and Machine Learning. Professional experience working with Angular, Python and Typescript.  -->
 
 My stack is as follows:
-* **Frontend**: HTML, CSS, JavaScript, ReactJS, Bootstrap, JSON
+* **Frontend**: HTML, CSS, JavaScript, AngularJs, Bootstrap, JSON
 * **Backend**: NodeJS, PHP, C#, SQL
 * **FullStack**: .NET
 * **Cloud Computing**: AWS, Google Cloud Platform
 
 
 **🔭 I’m currently working as a Mobile Web Specialist** <br/>
-**🌱 I’m currently learning MERN Stack**<br/>
+**🌱 I’m currently learning Angular JS**<br/>
 **⚡ Hobby: AR Enthusiast, Unity Development**<br/>
 **📫 How to reach me: martyturing@gmail.com**<br/>
 <!-- - 🤔 I’m looking for help with ... -->
