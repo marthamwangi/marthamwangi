@@ -5,7 +5,6 @@ A Software Developer with industry experience building web application used by t
 My stack is as follows:
 * **Frontend**: HTML, CSS, JavaScript, AngularJs, Bootstrap, JSON
 * **Backend**: NodeJS, PHP, C#, SQL
-* **FullStack**: .NET
 * **Cloud Computing**: AWS, Google Cloud Platform
 
 
