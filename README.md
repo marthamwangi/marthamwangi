@@ -18,7 +18,7 @@ My stack is as follows:
 - ⚡ Fun fact: 
 **👯⚡ I’m looking to collaborate on AR Development**<br/>
 ... -->
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="52b3c7ea-0141-469e-be44-28ccd5fd9a3c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ### My GitHub stats
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marthamwangi&hide=html&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" ><img alt="marthamwangi's github stats" src="https://github-readme-stats.vercel.app/api?username=marthamwangi&amp;show_icons=true&amp;count_private=true&amp;line_height=40&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000">
