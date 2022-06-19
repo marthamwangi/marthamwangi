@@ -3,17 +3,19 @@
 A Software Developer with industry experience building web application used by thousands of people. Specializing in Python, JavaScript, BlockChain technologies and Machine Learning. Professional experience working with Angular, Python and Typescript.  -->
 
 My craft is as follows:
-* **Frontend**: HTML, CSS, JavaScript, AngularJs, Bootstrap, JSON
+* **Frontend**: HTML, CSS, JavaScript, Angular, Bootstrap, JSON
 * **Backend**: NodeJS, PHP, C#, SQL
 * **Cloud Computing**: AWS, Google Cloud Platform
+* **Shell Basics and writing Scripts
+* **C programming
+* **Atlassian Products
 
-
-**🔭 My goal is to become a Mobile Web Specialist** <br/>
-**🌱 I’m currently learning Angular JS**<br/>
-**⚡ Hobby: AR Enthusiast, Unity Development**<br/>
+**🔭 My goal for 2022 is to become a Mobile Web Specialist & build more cross-platform apps** <br/>
+**🌱 I’m currently learning Cloud Computing**<br/>
+**⚡ Hobby: AR Enthusiast, Unity Development, Immersive 3D**<br/>
 **📫 How to reach me: martyturing@gmail.com**<br/>
+**💬 Ask me about Communities, Confluences & Tech events
 <!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 **👯⚡ I’m looking to collaborate on AR Development**<br/>
@@ -28,8 +30,6 @@ My craft is as follows:
   <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/json-grey?style=for-the-badge&logo=json"><img src="https://img.shields.io/badge/json-grey?style=for-the-badge&logo=json" alt="Json" data-canonical-src="https://img.shields.io/badge/json-grey?style=for-the-badge&logo=json" style="max-width: 100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/postman-grey?style=for-the-badge&logo=postman"><img src="https://img.shields.io/badge/postman-grey?style=for-the-badge&logo=postman" alt="Postman" data-canonical-src="https://img.shields.io/badge/postman-grey?style=for-the-badge&logo=postman" style="max-width: 100%;"></a>
 </p>
-
-### In progres
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6b25b5540b1fe0cfa35808019df5a2dc015d778f4e43c7dc9b184eafd9e81248/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/6b25b5540b1fe0cfa35808019df5a2dc015d778f4e43c7dc9b184eafd9e81248/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" alt="NodeJS" data-canonical-src="https://img.shields.io/badge/node.js-%234ea94b.svg?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c839570bc71901106b11b8411d9277a6a8356a9431e4a16d6c26db82caab7d62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/c839570bc71901106b11b8411d9277a6a8356a9431e4a16d6c26db82caab7d62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" alt="MongoDB" data-canonical-src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/29026b68c52288230bf32bc2268e47e5c3b81dba23106fb062fcc0541f8e9529/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e67756c61722d4444303033313f7374796c653d666f722d7468652d6261646765266c6f676f3d616e67756c6172266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/29026b68c52288230bf32bc2268e47e5c3b81dba23106fb062fcc0541f8e9529/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e67756c61722d4444303033313f7374796c653d666f722d7468652d6261646765266c6f676f3d616e67756c6172266c6f676f436f6c6f723d7768697465" alt="Angular" data-canonical-src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white" style="max-width: 100%;"></a>
