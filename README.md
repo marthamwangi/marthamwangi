@@ -3,7 +3,7 @@
 A Software Developer with industry experience building web application used by thousands of people. Specializing in Python, JavaScript, BlockChain technologies and Machine Learning. Professional experience working with Angular, Python and Typescript.  -->
 
 My craft is as follows:
-* **Frontend**: HTML, CSS, JavaScript, Angular, Bootstrap, JSON
+* **Frontend**: HTML, CSS, JavaScript, React, Angular, Bootstrap, JSON
 * **Backend**: NodeJS, PHP, C#, SQL
 * **Cloud Computing**: AWS, Google Cloud Platform
 * **Shell Basics and writing Scripts**
