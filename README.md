@@ -10,8 +10,6 @@ My craft is as follows:
 * **C programming**
 * **Atlassian Products**
 
-**🔭 My goal for 2022 is to become a Mobile Web Specialist & build more cross-platform apps** <br/>
-**🌱 I’m currently learning Cloud Computing**<br/>
 **⚡ Hobby: AR Enthusiast, Unity Development, Immersive 3D**<br/>
 **📫 How to reach me: martyturing@gmail.com**<br/>
 **💬 Ask me about Communities, Confluences & Tech events**<br/>
