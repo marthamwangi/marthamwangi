@@ -4,7 +4,7 @@ A Software Developer with industry experience building web application used by t
 
 My craft is as follows:
 * **Frontend**: HTML, CSS, JavaScript, React, Angular, Bootstrap, JSON
-* **Backend**: NodeJS, PHP, C#, SQL
+* **Backend**: NodeJS, PHP, C#, SQL, Nestjs, Firebase
 * **Cloud Computing**: AWS, Google Cloud Platform
 * **Shell Basics and writing Scripts**
 * **C programming**
