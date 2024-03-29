@@ -22,4 +22,4 @@ My craft is as follows:
 ### My Portfolio
 1. [app.kurasa.co](https://app.kurasa.co)
 2. [seekmake.com](https://seekmake.com)
-3. [ziiimo.com](ziimo.com)
+3. [ziiimo.com](https://www.ziiimo.com/)
