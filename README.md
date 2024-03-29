@@ -20,3 +20,6 @@ My craft is as follows:
 ... -->
 
 ### My Portfolio
+1. app.kurasa.co
+2. seekmake.com
+3. ziiimo.com
