@@ -1,23 +1,34 @@
-<h1 align="center">Hi 👋, I'm Martha M.</h1>
-<h3 align="center">A passionate frontend developer from Nairobi KE.</h3>
+<section style="background-color:#FFFFFF;background-image: url(https://github.com/marthamwangi/marthamwangi/assets/37874101/cf91afdc-9da6-4315-a190-80b759d77198); background-size:cover;background-repeat:no-repeat; border-radius:36px; padding-top:24px;font-family:'Poppins'; font-weight:normal">
+<img src=https://github.com/marthamwangi/marthamwangi/assets/37874101/9175f052-d1c9-40c9-929b-d8322c117be5" />
 
-- 🔭 I’m currently working on Angular [Clutter Free Finds](clutterfreefinds.com)
 
-- 🌱 I’m currently learning **.Net**
-
-- 🤝 I’m looking for help with **c# with .Net**
-
-- 👨‍💻 All of my projects are available at [https://ctrl-marty.blogspot.com/](https://ctrl-marty.blogspot.com/)
-
-- 📝 I regularly write articles on [https://ctrl-marty.blogspot.com/](https://ctrl-marty.blogspot.com/)
-
-- 💬 Ask me about **angular, boostrap, tailwind, typescript, NgRx, Nx**
-
-- 📫 How to reach me **martyturing@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<div style="border-radius:36px; padding:16px 24px">
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=%E2%9D%A4%EF%B8%8F+God's+Child+and+Christ's+Deputy+%E2%9D%A4%EF%B8%8F;%F0%9F%8E%80+Angular+Coder+%F0%9F%8E%80;%F0%9F%A5%85+.NET+Coder+%F0%9F%A5%85;%F0%9F%92%8E+AR+Enthuthisat+%F0%9F%92%8E;%F0%9F%8E%A8++Figma+Lover+%F0%9F%8E%A8" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="start" >
+<h2><img width=46 src="https://github.com/marthamwangi/marthamwangi/assets/37874101/faa331a6-772e-4547-aa7b-d1e93f034671"/>My latest projects</h2>
+
+**3D website [Seekmake.com](https://seekmake.com/)**<br>
+**EdTech Tool [App.kurasa.co](app.kurasa.co)**<br>
+**HTML Integration like We Transfer [Ziiimo.com](Ziiimo.com)**<br>
+**Professional Organizing [Clutter Free Finds](clutterfreefinds.com)**</a><br>
+**I regularly write articles on [ctrl-marty](https://ctrl-marty.blogspot.com/)**
+
+</p>
+
+<h2> 💡 Languages and Tools</h2>
+<img src="https://github.com/marthamwangi/marthamwangi/assets/37874101/222c5cf5-19b4-43e5-89fe-fb87ca86720a" />
+
+</div>
+<section align=center>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31msm4vggw5i4kksju4imfufc6ra&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31msm4vggw5i4kksju4imfufc6ra&redirect=true)
+
+</section>
+<p align=center>
+════ ⋆★⋆ ════ <br>
+"Shalom & Happy Coding👨‍💻"
+</p>
+</section>
