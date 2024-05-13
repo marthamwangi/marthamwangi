@@ -4,7 +4,7 @@
 
 <div style="border-radius:36px; padding:16px 24px">
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=%E2%9D%A4%EF%B8%8F+God's+Child+and+Christ's+Deputy+%E2%9D%A4%EF%B8%8F;%F0%9F%8E%80+Angular+Coder+%F0%9F%8E%80;%F0%9F%A5%85+.NET+Coder+%F0%9F%A5%85;%F0%9F%92%8E+AR+Enthuthisat+%F0%9F%92%8E;%F0%9F%8E%A8++Figma+Lover+%F0%9F%8E%A8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=%E2%9D%A4%EF%B8%8F+God's+Child+and+Christ's+Deputy+%E2%9D%A4%EF%B8%8F;%F0%9F%8E%80+Angular+Coder+%F0%9F%8E%80;%F0%9F%A5%85+.NET+Coder+%F0%9F%A5%85;%F0%9F%92%8E+AR+Enthuthiast+%F0%9F%92%8E;%F0%9F%8E%A8++Figma+Lover+%F0%9F%8E%A8" alt="Typing SVG" /></a>
 </p>
 
 <p align="start" >
