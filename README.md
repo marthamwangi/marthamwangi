@@ -1,4 +1,4 @@
-<section style="background-color:#FFFFFF;background-image: url(https://github.com/marthamwangi/marthamwangi/assets/37874101/cf91afdc-9da6-4315-a190-80b759d77198); background-size:cover;background-repeat:no-repeat; border-radius:36px; padding-top:24px;font-family:'Poppins'; font-weight:normal">
+ <section data-markdown="slides.md" data-background-image="https://github.com/marthamwangi/marthamwangi/assets/37874101/cf91afdc-9da6-4315-a190-80b759d77198">
 <img src=https://github.com/marthamwangi/marthamwangi/assets/37874101/9175f052-d1c9-40c9-929b-d8322c117be5" />
 
 
@@ -11,9 +11,9 @@
 <h2><img width=46 src="https://github.com/marthamwangi/marthamwangi/assets/37874101/faa331a6-772e-4547-aa7b-d1e93f034671"/>My latest projects</h2>
 
 **3D website [Seekmake.com](https://seekmake.com/)**<br>
-**EdTech Tool [App.kurasa.co](app.kurasa.co)**<br>
-**HTML Integration like We Transfer [Ziiimo.com](Ziiimo.com)**<br>
-**Professional Organizing [Clutter Free Finds](clutterfreefinds.com)**</a><br>
+**EdTech Tool [App.kurasa.co](https://app.kurasa.co/)**<br>
+**HTML Integration like We Transfer [Ziiimo.com](https://ziiimo.com/)**<br>
+**Professional Organizing [Clutter Free Finds](https://clutterfreefinds.com/)**</a><br>
 **I regularly write articles on [ctrl-marty](https://ctrl-marty.blogspot.com/)**
 
 </p>
